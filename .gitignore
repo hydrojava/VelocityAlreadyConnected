@@ -55,3 +55,7 @@ libs/*.zip
 reports/
 test-results/
 test-output/
+
+
+.vscode/
+bin/
